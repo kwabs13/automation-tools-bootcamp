@@ -56,6 +56,7 @@ Project Participants
 * Tim Gagnon
 * Tivon Luker
 * Alan Silver
+* Kwabs Kumi
 * Anders K. Pedersen
 * Pedro Oliveira
 * Ahmed Bu-khamsin
